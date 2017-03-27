@@ -2,7 +2,7 @@
 
 This repository accompanies [*Pro Apache Ant*](http://www.apress.com/9781430243113) by Matthew Moodie (Apress, 2012).
 
-![Cover image](9781430243113.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
